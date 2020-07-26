@@ -1,0 +1,11 @@
+
+h1{
+    font-family: "Montserrat-Bold";
+    color: green;
+}
+.card{  
+  margin : 25px 25px 50px 10px;
+  background-image: linear-gradient(lightgreen, red);
+  height : 600px; 
+    
+}
